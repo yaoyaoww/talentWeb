@@ -1,0 +1,28 @@
+.first{
+    text-align: center;
+    background: url("../img/cao.jpg ");
+    background-size: cover;
+    height: 1000px;
+
+}
+.second{
+    font-size: 60px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.one{
+    height: 200px;
+    margin-bottom: 20px;
+}
+.two{
+    height: 200px;
+    margin-top: 20px;
+}
+.three{
+    text-align: center;
+    background: url("../img/1.jpg");
+    background-size: cover;
+    height: 1000px;
+    font-size: 60px;
+    color: aqua;
+}
